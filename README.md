@@ -1,0 +1,1 @@
+Vietnamese manual compression corpus
