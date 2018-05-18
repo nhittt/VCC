@@ -1,6 +1,7 @@
+### VCC 
 Vietnamese manual compression dataset from [*Improving Vietnamese Sentence Compression by Segmenting Meaning Chunks*](https://ieeexplore.ieee.org/abstract/document/7371804/)
 
-Please add citation below when using this dataset:
+Please add the citation below when using this dataset:
 
 ```
 @inproceedings{tran2015improving,
@@ -15,7 +16,7 @@ Please add citation below when using this dataset:
 
 The Vietnamese manual compressed dataset is created by using 30 clusters of "Written Vietnamese Cluster Corpus for Document Summarization" of Tran Mai Vu Group, VNU Hanoi University of Engineering and Technology. 
 
-Three annotators were asked to perform three compressed versions.
+ * Three annotators were asked to perform three compressed versions.
 The data was organized as XML standard with the source sentence followed by three human-compressed versions:
 ```
 	<original> source sentence </original>
@@ -23,4 +24,4 @@ The data was organized as XML standard with the source sentence followed by thre
 	<compressed_human_2> compressed version by human 2 </compressed_human_2>
 	<compressed_human_3> compressed version by human 3 </compressed_human_3>
 ```
-The compression rate of this manually dataset which refers to the percentage of words retained from the source sentence in the compression is about 67.94%
+ * The compression rate of this manually dataset which refers to the percentage of words retained from the source sentence in the compression is about 67.94%
