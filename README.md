@@ -1,4 +1,17 @@
-Vietnamese manual compression dataset.
+Vietnamese manual compression dataset from [*Improving Vietnamese Sentence Compression by Segmenting Meaning Chunks*](https://ieeexplore.ieee.org/abstract/document/7371804/)
+
+Please add citation below when using this dataset:
+
+```
+@inproceedings{tran2015improving,
+  title={Improving vietnamese sentence compression by segmenting meaning chunks},
+  author={Tran, Nhi-Thao and Ung, Van-Giau and Luong, An-Vinh and Nghiem, Minh-Quoc and Nguyen, Ngan Luu-Thuy},
+  booktitle={Knowledge and Systems Engineering (KSE), 2015 Seventh International Conference on},
+  pages={320--323},
+  year={2015},
+  organization={IEEE}
+}
+```
 
 The Vietnamese manual compressed dataset is created by using 30 clusters of "Written Vietnamese Cluster Corpus for Document Summarization" of Tran Mai Vu Group, VNU Hanoi University of Engineering and Technology. 
 
